@@ -26,7 +26,7 @@ An example response from the DexScreener API for the token address JUPyiwrYJFskU
   },
   "priceUsd": "0.8132"
 }
-
+```
 In this example:
 
 The quoteToken is SOL (So11111111111111111111111111111111111111112).
